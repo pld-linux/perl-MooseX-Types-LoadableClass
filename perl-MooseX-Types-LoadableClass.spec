@@ -4,7 +4,6 @@
 
 %define		pdir	MooseX
 %define		pnam	Types-LoadableClass
-%include	/usr/lib/rpm/macros.perl
 Summary:	MooseX::Types::LoadableClass - ClassName type constraint with coercion to load the class
 Name:		perl-MooseX-Types-LoadableClass
 Version:	0.006
